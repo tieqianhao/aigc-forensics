@@ -1,5 +1,7 @@
 # AIGC-Forensics
 
+![tests](https://github.com/tieqianhao/aigc-forensics/actions/workflows/ci.yml/badge.svg)
+
 AI 生成图像多信号融合取证检测器。输入一张图像，输出 AIGC 疑似分数、五级判定、
 以及四路信号的逐项证据与解释——每一路都有独立原理，结果可解释、可复核。
 
